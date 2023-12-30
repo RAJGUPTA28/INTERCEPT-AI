@@ -8,4 +8,4 @@ This folder contains all the Jupiter Notebooks of models used in this Project
 
 - **Violent/Adult Content Detection**: Trained using CNN ,Transfer learning using RESNET50 ,Achieved Accuracy of 85%
 
-- Toxic English Hate Speech Detection Model: Trained using Bi-Directional LSTMs , Achieved Accuracy of 98%
+- **Toxic English Hate Speech Detection Model**: Trained using Bi-Directional LSTMs , Achieved Accuracy of 98%
