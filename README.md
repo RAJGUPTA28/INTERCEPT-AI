@@ -65,3 +65,8 @@ Deep learning
 
  - Working on Toxic Video Blocker App
  - Devicing Solution for on Device ,Chrome Extension
+
+## Feedback
+
+If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
+
